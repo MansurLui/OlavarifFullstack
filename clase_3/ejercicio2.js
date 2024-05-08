@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var readlineSync = require("readline-sync");
+var tiempoDeVuelta1 = readlineSync.questionInt("ingrese el tiempo de la primer vuelta: ");
+var tiempoDeVuelta2 = readlineSync.questionInt("ingrese el tiempo de la segunda vuelta: ");
+var tiempoDeVuelta3 = readlineSync.questionInt("ingrese el tiempo de la tercera vuelta: ");
+var tiempoDeVuelta4 = readlineSync.questionInt("ingrese el tiempo de la cuarta vuelta: ");
+var tiempoDeVueltaTotal = tiempoDeVuelta1 + tiempoDeVuelta2 + tiempoDeVuelta3 + tiempoDeVuelta4;
+var promedioDeVuelta = tiempoDeVueltaTotal / 4;
+console.log("el tiempo de total de vueltas de :" + tiempoDeVueltaTotal + " y el tiempo de vuelta parcial es de: " + promedioDeVuelta);

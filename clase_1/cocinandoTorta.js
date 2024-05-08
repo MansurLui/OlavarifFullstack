@@ -1,0 +1,11 @@
+console.log("como cocinar una torta:");
+console.log("1-comprar elementos");
+console.log("harina");
+console.log("leche");
+console.log("vainilla");
+console.log("huevos");
+console.log("2-mezclar elementos");
+console.log("3-llever al horno a 180 por 40 minutos");
+console.log("esperar a que se enfrie");
+console.log("disfrutar de la torta!");
+console.log(":D");
