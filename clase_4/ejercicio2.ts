@@ -32,11 +32,11 @@ console.log("ya llego el colectivo");
 
 //el mismo ejemplos de las notas pero con for
 
-let suma : number, nota : number, promedio : number, contador : number;
+let suma : number, nota : number, promedio : number;
 
 suma=0;
 
-for (contador=1; contador <11; contador++) {
+for (let contador=1; contador <11; contador++) {
     nota =rls.questionFloat("ingrese la nota:");
     suma +=nota;
 }
