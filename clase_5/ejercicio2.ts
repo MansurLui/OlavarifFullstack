@@ -7,4 +7,12 @@ como parametro es multiplo del segundo.
 
 import * as rls from "readline-sync";
 
-let 
+let dividendo:number , divisor:number;
+
+function esMultiplo(dividendo:number, divisor:number):boolean {
+    return dividendo % divisor ===0;
+}
+
+dividendo= rls.questionInt("ingrese el primer numero: ");
+divisor= rls.questionInt("ingrese el segundo numero: ");
+console.log(esMultiplo(dividendo,divisor));
