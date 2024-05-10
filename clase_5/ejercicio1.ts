@@ -1,4 +1,4 @@
-/*  ESTRUCTURAS
+/*  METODOS ejercicio: POTENCIAS
 -realice un programa que devuelva la potencia de un numero.
 -la base y el exponente deben ingresarse por teclado.
 -solo se admiten exponentes mayores o iguales a 0.
