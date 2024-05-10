@@ -25,6 +25,5 @@ function calcularExponente(base, exponente) {
 }
 function potencia(base, exponente) {
     var resultado = Math.pow(base, exponente);
-    return resultado;
 }
 calcularExponente(base, exponente);
