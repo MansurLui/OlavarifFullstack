@@ -1,4 +1,4 @@
-/*  METODOS
+/*  METODOS ejercicio: TRIANGULOS
 -realize un programa que devuelva el area de un triangulo ingresando base-altura.
 -implemente un metodo que llamado calcularAreaTriangulo reciba dos numeros por parametro (un llamado base y otro altura).
 */

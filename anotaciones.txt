@@ -1,0 +1,15 @@
+INICIAR REDLINE-SYNC EN CONSOLA
+
+    - npm i redline-sync 
+    - tsc (nombre del archivo.ts)   --> asi creo el archivo js del ts
+    - node (nombre del archivo.js)  --> asi correo el js en la consola
+
+COMANDOS GIT:
+
+    - git status: Te muestra en que rama estas, que archivos has modificado y otra información.
+    - git remote add origin <url> Agregas url de tu repo para subir los cambios mas adelante.
+    - git remote show origin Te muestra si tu contenido local esta lineado a algún repo remoto
+    - git add . Agregas todos los cambios que hayas realizado, aun sin commitear
+    - git commit -m 'mensaje de commit' creas el commit con un mensaje
+    - git push subis los cambios a tu repo
+    - git push -u origin master: Este comando es para subir tus avances al repo remoto, pero se usa solo la primera vez, en caso que nunca lo hayas hecho antes
