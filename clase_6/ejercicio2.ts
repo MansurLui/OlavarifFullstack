@@ -1,11 +1,11 @@
-import * as rls from 'readline-sync';
 
 /*  ENCONTRAR EL ELEMENTO MAS GRANDE DEL ARREGLO
 
 Dado el siguiente arreglo [4,7,9,3,1,45,67,23,29,78,11,16]
-    -crear un programa que encuentre el numero mas grande del arreglo e imprimirlo por consola.
-    -almacenar el numero mas grande en una variable global y pasarlo a una funcion para determinar si es par o impar.
+-crear un programa que encuentre el numero mas grande del arreglo e imprimirlo por consola.
+-almacenar el numero mas grande en una variable global y pasarlo a una funcion para determinar si es par o impar.
 */
+import * as rls from 'readline-sync';
 
 let arreglo:number [] = [4,7,9,3,1,45,67,23,29,78,11,16];
 let mayorNumero =arreglo[0];
@@ -27,4 +27,4 @@ function parOImpar(mayorNumero:number){
 }
 
 console.log(`el mayor numero del arreglo es ${mayorNumero}`);
-console.log(parOImpar(mayorNumero));
+parOImpar(mayorNumero);

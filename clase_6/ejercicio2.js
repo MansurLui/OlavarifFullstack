@@ -24,4 +24,4 @@ function parOImpar(mayorNumero) {
     }
 }
 console.log("el mayor numero del arreglo es ".concat(mayorNumero));
-console.log(parOImpar(mayorNumero));
+parOImpar(mayorNumero);
