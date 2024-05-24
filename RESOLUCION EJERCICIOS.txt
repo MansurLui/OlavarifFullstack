@@ -1,0 +1,23 @@
+ESTRUCTURAS DE DATOS
+    -   CREAR ARREGLO
+
+    -   ENCONTRAR EL ELEMENTO MAS GRANDE DEL ARREGLO (clase6 - ejercicio2)
+        Dado el siguiente arreglo [4,7,9,3,1,45,67,23,29,78,11,16]
+        -crear un programa que encuentre el numero mas grande del arreglo e imprimirlo por consola.
+        -almacenar el numero mas grande en una variable global y pasarlo a una funcion para determinar si es par o impar.
+
+    -   SUMAR ARREGLOS (clase7)
+
+    -   INVERTIR ARREGLO
+
+    -   TIPOS DE NUMEROS EN ARREGLO (clase7 - ejercicio1)
+        -almacene en un arreglo de dimension N numeros(la cantidad ingresada por los usuarios)
+        -muestre cuantos numeros son positivos,cuantos negativos y cuantos ceros hay. 
+
+    -   MULTIPLICACION (clase9 - ejercicio1)
+        -implemente un metodo llamado "multiplicar arreglo" que recibe como parametros tres arreglos de enteros del mismo tamaño.
+        -los dos primeros arreglos contienen los numeros que se quieren multiplicar.
+        -el tercer arreglo almacena el calculo de la multiplicacion de cada posicion de los dos arreglos.
+        -utilice este metodo para multiplicar los siguientes cuatro arreglos de tres elementos.
+        v1: [1,2,3] v2: [4,5,6] v3: [2,1,2] v4: [1,2,1]  
+

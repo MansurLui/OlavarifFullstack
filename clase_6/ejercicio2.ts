@@ -1,5 +1,5 @@
 
-/*  ENCONTRAR EL ELEMENTO MAS GRANDE DEL ARREGLO
+/*  ESTRUCTURAS DE DATOS-ENCONTRAR EL ELEMENTO MAS GRANDE DEL ARREGLO
 
 Dado el siguiente arreglo [4,7,9,3,1,45,67,23,29,78,11,16]
 -crear un programa que encuentre el numero mas grande del arreglo e imprimirlo por consola.
@@ -9,12 +9,12 @@ import * as rls from 'readline-sync';
 
 let arreglo:number [] = [4,7,9,3,1,45,67,23,29,78,11,16];
 let mayorNumero =arreglo[0];
-let indice:number;
+let i:number;
 
 console.log(`los numeros del arreglo son ${arreglo}`);
-for (indice = 0; indice < arreglo.length;indice++){
-    if (arreglo[indice]>=mayorNumero){
-        mayorNumero = arreglo[indice];
+for (i=0; i<arreglo.length ;i++){
+    if (arreglo[i]>=mayorNumero){
+        mayorNumero = arreglo[i];
     }
 }
 
