@@ -1,7 +1,7 @@
 ESTRUCTURAS DE DATOS
     -   CREAR ARREGLO
 
-    -   ENCONTRAR EL ELEMENTO MAS GRANDE DEL ARREGLO (clase6 - ejercicio2)
+    -   ENCONTRAR EL ELEMENTO MAS GRANDE DEL ARREGLO (clase6 - ejercicio2 - ENTREGABLE(entregado))
         Dado el siguiente arreglo [4,7,9,3,1,45,67,23,29,78,11,16]
         -crear un programa que encuentre el numero mas grande del arreglo e imprimirlo por consola.
         -almacenar el numero mas grande en una variable global y pasarlo a una funcion para determinar si es par o impar.

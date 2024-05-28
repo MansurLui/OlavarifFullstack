@@ -18,6 +18,7 @@ for (let i = 0; i < arregloA.length; i++) {
 
 //aca sumamos 2 vectores en los que ingresamos el dato 
 // este ejercicio lo resolvi yo, en la clase grabada esta parecido pero no igual, nose si esta bien pero funciona ok
+/*
 let valorArreglo:number = rls.questionInt("ingrese cuantos valores quiere que tenga el arreglo: ")
 let arregloA:number[]=new Array (valorArreglo);
 let arregloB:number[]=new Array (valorArreglo);
@@ -39,3 +40,4 @@ for (i=valorArreglo-1; i >= 0; i--) {
     cadena=cadena+sumaArreglo[i]+"";
 }
 console.log(cadena);
+*/
