@@ -33,6 +33,8 @@ function multiplicarArreglo(){
 ingresarArreglo();
 multiplicarArreglo();
 */
+
+
 //multiplicar los arreglos dados
 
 let v1:number[]=[1,2,3];

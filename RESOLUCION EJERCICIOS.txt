@@ -8,7 +8,10 @@ ESTRUCTURAS DE DATOS
 
     -   SUMAR ARREGLOS (clase7)
 
-    -   INVERTIR ARREGLO
+    -   INVERTIR ARREGLO (clase9 - ejercicio2)
+        -Almacene en un arreglo de tamaño N los números ingresados por el usuario.
+        -La dimensión N también es ingresada por el usuario.
+        -Muestre los números del arreglo pero del último al primero.
 
     -   TIPOS DE NUMEROS EN ARREGLO (clase7 - ejercicio1)
         -almacene en un arreglo de dimension N numeros(la cantidad ingresada por los usuarios)

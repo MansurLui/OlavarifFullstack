@@ -45,3 +45,6 @@ function multiplicarArreglo() {
     console.log("el valor de los arreglos multiplicados es ".concat(arreglosMultiplicados));
 }
 multiplicarArreglo();
+console.log(v1);
+v1.reverse();
+console.log(v1);
