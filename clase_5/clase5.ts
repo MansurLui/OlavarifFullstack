@@ -1,8 +1,7 @@
-/*  METODOS ejercicio: TRIANGULOS
+/*  METODOS ejercicio: TRIÁNGULOS
 -realize un programa que devuelva el area de un triangulo ingresando base-altura.
 -implemente un metodo que llamado calcularAreaTriangulo reciba dos numeros por parametro (un llamado base y otro altura).
 */
-
 import * as rls from "readline-sync";
 
 let base:number , altura:number, area:number;
