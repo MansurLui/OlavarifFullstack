@@ -24,3 +24,7 @@ ESTRUCTURAS DE DATOS
         -utilice este metodo para multiplicar los siguientes cuatro arreglos de tres elementos.
         v1: [1,2,3] v2: [4,5,6] v3: [2,1,2] v4: [1,2,1]  
 
+
+ORDENAMIENTO
+    -   EJERCICIO BURBUJA (clase 10 -ejercicio1 ENTREGABLE)
+        -Implemente un algoritmo de ordenamiento con modo Bubble Sort, para que ordene un arreglo de longitud N en orden descendente.
